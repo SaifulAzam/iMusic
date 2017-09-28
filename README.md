@@ -17,6 +17,9 @@ Thank you and I look forward to talking with you.
 
 # Technology Stack
 Programing Language: Php, Javascript, Angular js
+
 Framework: laravel v5.5.*, Ionic 2
+
 Database: Mysql
+
 Platform: Web Application, IOS, Android
